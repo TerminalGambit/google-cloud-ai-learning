@@ -1,0 +1,9 @@
+1. Artificial Intelligence for Beginners - https://microsoft.github.io/AI-For-Beginners/
+
+2. IOT for Beginners - https://microsoft.github.io/IoT-For-Beginners/#/
+
+3. ML for Beginners - https://microsoft.github.io/ML-For-Beginners/#/?id=machine-learning-for-beginners-a-curriculum
+
+4. DS for Beginners - https://microsoft.github.io/Data-Science-For-Beginners/#/
+
+5. Generative AI - https://www.cloudskillsboost.google/paths/118
